@@ -1,0 +1,18 @@
+# build output
+build/
+*.EXE
+*.exe
+*.OBJ
+*.obj
+*.LST
+*.lst
+*.MAP
+*.map
+
+# Turbo Debugger / DOSBox
+*.TR
+TDCONFIG.TD
+
+# OS junk
+.DS_Store
+Thumbs.db
